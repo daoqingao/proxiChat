@@ -6,7 +6,7 @@ import { Text, View } from '../components/Themed';
 export default function TabTwoScreen() {
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>Tab Two</Text>
+      <Text style={styles.title}>Tab Two i JUST WANT TO SEE HOW LONG WOULD IT TAKE FOR THIS TO UPDATE HMM</Text>
       <View style={styles.separator} lightColor="#eee" darkColor="rgba(255,255,255,0.1)" />
       <EditScreenInfo path="/screens/TabTwoScreen.tsx" />
     </View>
